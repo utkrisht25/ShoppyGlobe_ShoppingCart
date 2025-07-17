@@ -4,6 +4,10 @@ ShoppyGlobe is a feature-rich e-commerce platform built with React and modern we
 
 ![ShoppyGlobe Screenshot](public/shopping-cart.svg)
 
+## GitHub Repository
+
+[View the project on GitHub](https://github.com/utkrisht25/ShoppyGlobe_ShoppingCart)
+
 ## ✨ Features
 
 - 🛒 Intuitive shopping cart functionality
