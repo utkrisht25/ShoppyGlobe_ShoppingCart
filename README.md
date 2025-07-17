@@ -27,7 +27,7 @@ ShoppyGlobe is a feature-rich e-commerce platform built with React and modern we
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ShoppyGlobe.git
+git clone https://github.com/utkrisht25/ShoppyGlobe_ShoppingCart
 cd ShoppyGlobe
 ```
 
@@ -101,7 +101,7 @@ The application uses Redux Toolkit for state management with the following slice
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### How to Contribute
-1. Fork the repository (https://github.com/yourusername/ShoppyGlobe/fork)
+1. Fork the repository (https://github.com/utkrisht25/ShoppyGlobe_ShoppingCart/fork)
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
